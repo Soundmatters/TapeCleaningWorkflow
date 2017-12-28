@@ -1,15 +1,15 @@
 
 # Workflow for the surface cleaning of the emulsion layer of audio tape.
 
+## Overview
 
 The following is a workflow for the surface cleaning of audio tape. It is mechanical process that may reduce debris (tape shedding and other particulate matter) found on the emulsion layer of the medium which, left untreated, may lead to sqeeking, signal loss and speed irregularities. 
 
 The deck used in this workflow description is the Studer A80 RC.    
 
   
-    
+## Workflow
    
-
 1)  Cut a 3 to 4-inch piece of RTI cleaning tissue, or comparable non-woven cleaning fabric.
 
 RTI cleaning tissue.  
