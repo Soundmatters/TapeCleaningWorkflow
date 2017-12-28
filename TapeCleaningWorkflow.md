@@ -51,7 +51,7 @@ Audio tape and cleaning tissue moving in opposite directions.
 8)  Repeat as needed.  One pass, however, is normaly sufficient.  
 
 Cleaning tissue with debris lifted from the emulsion layer of the audio tape.  
-![](emulsion_8.jpg)
+![](emulsion_8a.jpg)
 
 
 
