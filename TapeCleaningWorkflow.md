@@ -41,7 +41,7 @@ Cleaning tissue being placed on the Edit Lifter.
 6)  Move the Edit Lifter forward to put the cleaning tissue in contact with the emulsion layer of the audio tape which was loaded on to the deck.  
   
   The Edit lifter moved forward to place the tissue in contact with the audio tape.  
-  ![](emulsion_6.JPG)
+  ![](emulsion_6a.JPG)
 
 7)  Simultaniously, wind the audio tape onto the supply side reel, and --in the opposite direction of the winding audio tape -- slowly pull the the cleaning tissue forward.
 
