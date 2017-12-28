@@ -31,6 +31,8 @@ Leader tape securing the cleaning tissue in place.
 Cleaning tissue being cut to size.  
 ![](emulsion_4.jpg).  
 
+Cleaning tissue cut to a 1/4-inch width.  
+![](emulsion_4.5.jpg).  
 
 5)  Load the tape to be cleaned onto the take-up side of the Studer A80.  Set up he tape to be wound onto an empty reel on the supply side of the deck.  Loop the trimmed cleaning tissue onto the notch of the Edit Lifter of the Studer A80.  
 
