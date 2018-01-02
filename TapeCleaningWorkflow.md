@@ -59,14 +59,14 @@ The deck used in this workflow description is the Studer A80 RC.
 7)  Simultaniously, wind the audio tape onto the supply side reel, and --in the opposite direction of the winding audio tape -- slowly pull the the cleaning tissue forward.
 
       
-*Example: audio tape and cleaning tissue moving in opposite directions.  
+*Example: audio tape and cleaning tissue moving in opposite directions*  
 ![](emulsion_7.jpg)  
 
       
 8)  Repeat as needed.  One pass, however, is normaly sufficient.  
 
       
-Cleaning tissue with debris lifted from the emulsion layer of the audio tape.  
+*Example: cleaning tissue with debris lifted from the emulsion layer of the audio tape*  
 ![](emulsion_8a.jpg)
 
 
