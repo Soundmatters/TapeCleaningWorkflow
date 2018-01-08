@@ -7,25 +7,27 @@ The following is a workflow for the surface cleaning of the emusion layer of aud
 
 Tool and supply list:
 
-splicing block  
-straight-edge razor
-RTI tissue, or comparable non-woven fabric
-leader tape
-Tape deck
+>splicing block  
+>straight-edge razor  
+>RTI tissue, or comparable non-woven fabric  
+>leader tape  
+>open-reel tape deck
 
+  
+  
 The deck used in this workflow description is the Studer A80 RC.    
 
   
 ## Workflow
    
-1)  Cut a 3 to 4-inch piece of RTI cleaning tissue, or comparable non-woven cleaning fabric.  
+1)  Cut a 4-inch piece of RTI cleaning tissue, or comparable non-woven cleaning fabric.  
 
 *Example: RTI cleaning tissue*  
 ![](emulsion_1.jpg)
 
       
 
-2)  Put one of the long edges of the the cleaning tissue into the splicing block.  Score and crease the excess tissue tightly into the splicing block.  
+2)  Put one of the long edges of the the cleaning tissue squarely into one side of the splicing block.  Score and crease the excess tissue tightly into the other side of splicing block.  
 
    
     
@@ -79,6 +81,6 @@ The deck used in this workflow description is the Studer A80 RC.
 ![](emulsion_8a.jpg)
 
 *Example: four cleaning tissues with debris lifted from the emulsion layer of Ampex ??? with sticky shed syndrome; the cleaning occured after baking*  
-![](emulsion_8a.jpg)  
+![](emulsion_9.jpg)  
 
 
