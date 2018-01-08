@@ -79,6 +79,6 @@ The deck used in this workflow description is the Studer A80 RC.
 ![](emulsion_8a.jpg)
 
 *Example: four cleaning tissues with debris lifted from the emulsion layer of Ampex ??? with sticky shed syndrome; the cleaning occured after baking*  
-![](emulsion_8a.jpg)
+![](emulsion_8a.jpg)  
 
 
