@@ -1,5 +1,5 @@
 
-# Workflow for the surface cleaning of the emulsion layer of audio tape.
+# Workflow for the surface cleaning of the emulsion layer of open-reel audio tape.
 
 ## Overview
 
@@ -33,7 +33,7 @@ The deck used in this workflow description is the Studer A80 RC.
     
 
 *Example: cleaning tissue creased and scored into a splicing block*  
-![](emulsion_2.jpg)  
+![](emulsion_2a.jpg)  
   
 3)  Lay a piece of leader tape on top of the scored tissue, still in the block.   Work the leader tape and tissue down into the block to secure both into place.  
  
