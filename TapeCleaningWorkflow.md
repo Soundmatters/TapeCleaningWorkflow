@@ -3,7 +3,7 @@
 
 ## Overview
 
-The following is a workflow for the surface cleaning of the emusion layer of audio tape. It is mechanical process that may reduce debris (tape shed and other particulate matter). 
+The following is a workflow for the surface cleaning of the emusion layer of open-reel audio tape. It is mechanical process that may reduce debris (tape shed and other particulate matter) which may compromise playback. 
 
 Tool and supply list:
 
