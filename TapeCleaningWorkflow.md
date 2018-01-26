@@ -70,12 +70,13 @@ The deck used in this workflow description is the Studer A80 RC.
 ![](emulsion_7.jpg)  
 
       
-8)  Repeat as needed.  One pass, however, is normaly sufficient.  
-      
-*Example: cleaning tissue with debris lifted from the emulsion layer of squeeking Scotch 176 tape*  
+8)  Repeat as needed.  A single pass, however, is normaly sufficient. 
+*Example 1: Single pass; cleaning tissue with debris lifted from the emulsion layer of squeeking Scotch 176 tape*  
+  
+  
 ![](emulsion_8a.jpg)
 
-*Example: Multiple passes; four cleaning tissues with debris lifted from the emulsion layer of a single Ampex 478 tape with sticky shed syndrome; the cleaning occured after baking*  
+*Example 2: Multiple passes; four cleaning tissues with debris lifted from the emulsion layer of a single Ampex 478 tape with sticky shed syndrome; the cleaning occured after baking*  
 ![](emulsion_9.jpg)  
 
 
