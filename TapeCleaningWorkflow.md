@@ -20,7 +20,7 @@ The deck used in this workflow description is the Studer A80 RC.
   
 ## Workflow
    
-1)  Cut a 4-inch piece of RTI cleaning tissue, or comparable non-woven cleaning fabric.  
+1)  Cut a ~3-inch piece of RTI cleaning tissue, or comparable non-woven cleaning fabric.  
 
 *Example: RTI cleaning tissue*  
 ![](emulsion_1.jpg)
@@ -63,7 +63,7 @@ The deck used in this workflow description is the Studer A80 RC.
 ![](emulsion_6a.jpg)
 
       
-7)  Simultaniously, wind the audio tape onto the supply side reel, and --in the opposite direction of the winding audio tape -- slowly pull the the cleaning tissue forward.
+7)  Simultaniously, wind the audio tape onto the supply side reel, and --in the opposite direction of the winding audio tape -- slowly pull the the cleaning tissue forward.  
 
       
 *Example: audio tape and cleaning tissue moving in opposite directions*  
