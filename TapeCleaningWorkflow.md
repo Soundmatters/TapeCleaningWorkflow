@@ -75,7 +75,7 @@ The deck used in this workflow description is the Studer A80 RC.
 *Example: cleaning tissue with debris lifted from the emulsion layer of squeeking Scotch 176 tape*  
 ![](emulsion_8a.jpg)
 
-*Example: Multiple passes; four cleaning tissues with debris lifted from the emulsion layer of a single Ampex ??? tape with sticky shed syndrome; the cleaning occured after baking*  
+*Example: Multiple passes; four cleaning tissues with debris lifted from the emulsion layer of a single Ampex 478 tape with sticky shed syndrome; the cleaning occured after baking*  
 ![](emulsion_9.jpg)  
 
 
