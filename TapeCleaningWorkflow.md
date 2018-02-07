@@ -7,11 +7,11 @@ The following is a workflow for the surface cleaning of the emusion layer of ope
 
 Tool and supply list:
 
->splicing block  
->straight-edge razor  
->RTI tissue, or comparable non-woven fabric  
->leader tape  
->open-reel tape deck
+  * splicing block  
+  * straight-edge razor  
+  * RTI tissue, or comparable non-woven fabric  
+  * leader tape  
+  * open-reel tape deck
 
   
   
@@ -70,7 +70,8 @@ The deck used in this workflow description is the Studer A80 RC.
 ![](emulsion_7.jpg)  
 
       
-8)  Repeat as needed.  A single pass, however, is normaly sufficient. 
+8)  Repeat as needed.  A single pass, however, is normaly sufficient.  
+
 *Example 1: Single pass; cleaning tissue with debris lifted from the emulsion layer of squeeking Scotch 176 tape*  
   
   
